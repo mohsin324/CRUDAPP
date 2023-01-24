@@ -7,10 +7,10 @@ try{
     connect
     .then(()=> {
         app.listen(port, ()=> {
-            console.log(`server listen at port ${port}`);
+            console.log(`server listen at port ${port}...`);
         });
     })
 }
 catch(err){
-    console.log(err);
+    console.log(err); 
 }
