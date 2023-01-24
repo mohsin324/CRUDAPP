@@ -1,2 +1,2 @@
 # crudapp
-crudapp with mongodb node and express
+crudapp with mongodb node and express and jwt authentication
